@@ -1,0 +1,1 @@
+<?php /**PATH /www/wwwroot/new.chooozi.com/resources/views/layouts/includes/privacy.blade.php ENDPATH**/ ?>

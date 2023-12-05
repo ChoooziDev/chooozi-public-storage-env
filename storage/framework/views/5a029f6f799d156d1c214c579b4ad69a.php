@@ -1,0 +1,1 @@
+<hr class="border-t border-gray-50" /><?php /**PATH /www/wwwroot/new.chooozi.com/resources/views/components/hr.blade.php ENDPATH**/ ?>
